@@ -80,7 +80,7 @@ background-size: 10000vh;
     justify-content: space-between;
     height: 93vh;
     width:auto;
-    background: url(raymund.png)no-repeat;
+    background: url(assests/raymund.png)no-repeat;
     background-size: 550px;
     background-position: 70rem;
     display:flex;
