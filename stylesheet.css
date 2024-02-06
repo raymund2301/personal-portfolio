@@ -661,7 +661,7 @@ section{
 .layer{
     width: 71%;
     height:0;
-    background: linear-gradient(rgb(0,0,0,0.1),#0ef);
+    background: linear-gradient(rgba(255, 255, 255, 0.1),rgb(0, 238, 255));
     position: absolute;
     border-radius: 8px;
     left:0px;
